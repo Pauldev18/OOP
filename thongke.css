@@ -1,0 +1,278 @@
+.all
+{
+background-color: #2F5597;
+width: 100%;
+height: 100vh;
+
+}
+
+
+.one
+{
+  position: absolute;
+  left: 5.74%;
+  top: 16.875%;
+  width: 28.125%;
+  height: 9.44%;
+  
+  background-color: #203864;
+  border: 1.33px solid #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 35px;
+  font-family: Inter;
+  font-style: Regular;
+  font-size: 1.5625em;
+  text-align: center;
+  color: #FFFFFF;
+}
+.two
+{
+  position: absolute;
+  left: 5.74%;
+  top: 29.9%;
+  width: 28.125%;
+  height: 9.44%;
+  background-color: #203864;
+  border: 1.33px solid #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 35px;
+  font-family: Inter;
+  font-style: Regular;
+  font-size: 1.5625em;
+  text-align: center;
+  color: #FFFFFF;
+}
+.three
+{
+  position: absolute;
+  left: 5.74%;
+  top: 43.125%;
+  width: 28.125%;
+  height: 9.44%;
+  background-color: #203864;
+  border: 1.33px solid #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 35px;
+  font-family: Inter;
+  font-style: Regular;
+  font-size: 25px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.four
+{
+   position: absolute;
+  left: 5.74%;
+  top: 56.18%;
+  width: 28.125%;
+  height: 9.44%;
+  background-color: #203864;
+  border: 1.33px solid #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 35px;
+  font-family: Inter;
+  font-style: Regular;
+  font-size: 25px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.five
+{
+   position: absolute;
+  left: 5.74%;
+  top: 69.27%;
+  width: 28.125%;
+  height: 9.44%;
+  background-color: #203864;
+  border: 1.33px solid #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 35px;
+  font-family: Inter;
+  font-style: Regular;
+  font-size: 25px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.six
+{
+   position: absolute;
+   left: 5.74%;
+   top: 82.29%;
+   width: 28.125%;
+   height: 9.44%;
+  background-color: #203864;
+  border: 1.33px solid #FFFFFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 35px;
+  font-family: Inter;
+  font-style: Regular;
+  font-size: 25px;
+  text-align: center;
+  color: #FFFFFF;
+}
+.tb1
+{
+  position: absolute;
+  left: 39.57%;
+  top: 15.2%;
+  width: 54.765%;
+  height: 37.36%;
+  background-color: #4472C4;
+  border: 1.33px solid #4472C4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tb2
+{
+  position: absolute;
+  left: 39.57%;
+  top: 57.85%;
+  width: 54.765%;
+  height: 37.36%;
+  background-color: #4472C4;
+  border: 1.33px solid #4472C4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.caption11
+{
+  text-align: center;
+}
+.td1
+{
+position: absolute;
+left: 7.65%;
+top: 35.87%;
+width: 12.55%;
+height: 11.15%;
+font-family: Inter;
+font-style: normal;
+font-size: 25px;
+line-height: 30px;
+color: #262626;
+background-color: transparent;
+}
+caption
+{
+  position: absolute;
+left: 41.29%;
+top: 5.76%;
+width: 18.54%;
+height: 14.5%;
+font-family: Inter;
+font-style: normal;
+font-size: 25px;
+line-height: 30px;
+color: #262626;
+background-color: transparent;
+}
+#get1
+{
+  position: absolute;
+left: 20.51%;
+top: 37%;
+width: 12.12%;
+height: 11.15%;
+color: #FFFFFF;
+}
+.td2
+{
+  position: absolute;
+left: 52.83%;
+top: 35.87%;
+width: 17.83%;
+height: 11.15%;
+font-family: Inter;
+font-style: normal;
+font-size: 25px;
+line-height: 30px;
+color: #262626;
+background-color: transparent;
+}
+#get2
+{
+  position: absolute;
+left: 69.3%;
+top: 37%;
+width: 12.12%;
+height: 11.15%;
+color: #FFFFFF;
+}
+.td3
+{
+  position: absolute;
+left: 7.65%;
+top: 69.13%;
+width: 12.98%;
+height: 11.15%;
+font-family: Inter;
+font-style: normal;
+font-size: 25px;
+line-height: 30px;
+color: #262626;
+background-color: transparent;
+}
+.td4
+{
+   position: absolute;
+left: 52.83%;
+top: 69.12%;
+width: 17.83%;
+height: 11.15%;
+font-family: Inter;
+font-style: normal;
+font-size: 25px;
+line-height: 30px;
+color: #262626;
+background-color: transparent;
+}
+.oto
+{
+  position: absolute;
+left: 45%;
+top: 4.3%;
+width: 9.7%;
+height: 14.5%;
+}
+.tieude
+{
+position: absolute;
+left: 49.6%;
+top: 4%;
+width: 41.7%;
+height: 7.3%;
+font-family: Inter;
+font-style: bold;
+font-size: 43px;
+text-align: left;
+color: #FFFFFF;
+}
+.logo
+{
+position: absolute;
+left: 3.51%;
+top: 4.8%;
+width: 9.21%;
+height: 5.42%;
+font-family: Inter;
+font-style: bold;
+font-size: 25px;
+text-align: center;
+color: #FFFFFF;
+border: 1.33px solid #FFFFFF;
+
+}

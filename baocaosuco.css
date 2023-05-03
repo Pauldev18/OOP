@@ -1,0 +1,110 @@
+.title
+{
+position: absolute;
+left: 36.12890625%;
+  top: 5.555555555555555%;
+  width: 27.421875%;
+  height: 7.222222222222222%;
+font-family: "Inter", sans-serif;
+font-weight: bold;
+font-size: 43px;
+line-height: 52px;
+text-align: center;
+color: #FFFFFF;
+
+}
+.container
+{
+background-color: #2F5597;
+border: 1.33px solid #2F5597;
+width: 100%;
+  height: 100%;
+position: absolute;
+
+}
+.title1
+{
+position: absolute;
+left:12.309375%; 
+   top:20.13888888888889%; 
+   width:9.53125%; 
+   height:5.416666666666667%; 
+font-family: "Inter", sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+text-align: left;
+color: #FFFFFF;
+}
+
+.titleone
+{
+position: absolute;
+left: 29.1015625%;
+  top: 17.708333333333332%;
+  width: 41.875%;
+  height: 9.444444444444445%;
+background-color: #8FAADC;
+border: 1.33px solid #FFFFFF;
+text-align: center;
+border-radius: 25px;
+}
+.title2
+{
+	position: absolute;
+  left:12.309375%; 
+    top:32.638888888888886%; 
+    width:14.609375%; 
+    height:5.416666666666667%; 
+ font-family: "Inter", sans-serif;
+  font-style: normal;
+  font-size: 32px;
+  line-height: 39px;
+  text-align: left;
+  vertical-align: top;
+  color: #FFFFFF;
+  background-color: transparent;
+}
+.titletwo
+{
+  position: absolute;
+  left: 29.1015625%;
+  top: 32.15277777777778%;
+  width: 41.875%;
+  height: 62.77777777777778%;
+  background-color: #8FAADC;
+  border: 1.33px solid #FFFFFF;
+  border-radius: 25px;
+}
+.btn1
+{
+  position: absolute;
+  left:79.1015625%; 
+   top:80.20833333333333%; 
+   width:12.734375%; 
+   height:9.305555555555555%; 
+  color: #FFFFFF;
+  background-color: #203864;
+  border: 1.33px solid #FFFFFF;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 25px;
+}
+.logo
+{
+  font-family: Inter;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 39px;
+  text-align: center;
+  vertical-align: top;
+  color: #FFFFFF;
+  position: absolute;
+  left: 3.54296875%;
+  top: 0.6944444444444444%;
+  width: 9.21875%;
+  height: 5.416666666666667%;
+  border: 1.33px solid #FFFFFF;
+  background-color: #203864;
+}

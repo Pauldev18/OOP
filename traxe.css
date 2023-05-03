@@ -1,0 +1,210 @@
+.container-1
+{
+	background-color: #2F5597;
+	width: 100%;
+	height: 100vh;
+}
+.searchzero
+{
+position: absolute;
+width: 11.41%;
+left: 12.26%;
+top: 20.14%;
+height: 5.42%;
+font-family: 'Inter';
+font-style: normal;
+
+color: #FFFFFF;
+}
+.search0
+{
+    position: absolute;
+    left: 29.1%;
+    width: 41.875%;
+    top: 17.71%;
+    height: 9.44%;
+    background: #FFFFFF;
+    border: 1.33333px solid #FFFFFF;
+    border-radius: 50px;
+}
+.searchone
+{
+position: absolute;
+width: auto;
+left: 12.31%;
+right: 78.79%;
+top: 34.58%;
+bottom: 60%;
+font-family: 'Inter';
+font-style: normal;
+
+color: #FFFFFF;
+}
+.search1
+{
+position: absolute;
+left: 29.1%;
+right: 29.02%;
+top: 32.15%;
+bottom: 58.4%;
+
+background: #8FAADC;
+border: 1.33333px solid #FFFFFF;
+border-radius: 50px;
+}
+
+.searchtwo
+{
+position: absolute;
+width: auto;
+left: 12.31%;
+right: 77.93%;
+top: 47.22%;
+bottom: 47.36%;
+
+font-family: 'Inter';
+font-style: normal;
+
+
+color: #FFFFFF;
+}
+
+.search2
+{
+position: absolute;
+width: auto;
+left: 29.1%;
+right: 29.02%;
+top: 44.65%;
+bottom: 45.9%;
+
+background: #8FAADC;
+border: 1.33333px solid #FFFFFF;
+border-radius: 50px;
+}
+
+.searchthree
+{
+	position: absolute;
+left: 12.31%;
+right: 76.13%;
+top: 59.72%;
+bottom: 34.86%;
+
+font-family: 'Inter';
+font-style: normal;
+color: #FFFFFF;
+}
+
+.search3
+{
+position: absolute;
+left: 29.1%;
+right: 29.02%;
+top: 57.15%;
+bottom: 33.4%;
+
+background: #8FAADC;
+border: 1.33333px solid #FFFFFF;
+border-radius: 50px;
+}
+
+.searchford
+{
+position: absolute;
+left: 12.31%;
+right: 77.38%;
+top: 72.22%;
+bottom: 22.36%;
+
+font-family: 'Inter';
+font-style: normal;
+
+
+color: #FFFFFF;
+}
+
+.search4
+{
+position: absolute;
+left: 29.1%;
+right: 29.02%;
+top: 69.65%;
+bottom: 20.9%;
+
+background: #8FAADC;
+border: 1.33333px solid #FFFFFF;
+border-radius: 50px;
+}
+
+.searchfive
+{
+position: absolute;
+left: 12.26%;
+right: 77.98%;
+top: 84.72%;
+bottom: 9.86%;
+font-family: 'Inter';
+font-style: normal;
+color: #FFFFFF;
+}
+
+.search5
+{
+position: absolute;
+left: 29.02%;
+right: 29.1%;
+top: 82.15%;
+bottom: 8.4%;
+
+background: #8FAADC;
+border: 1.33333px solid #FFFFFF;
+border-radius: 50px;
+}
+
+.done
+{
+position: absolute;
+left: 79.1%;
+right: 8.16%;
+top: 82.15%;
+bottom: 8.4%;
+
+background: #203864;
+border: 1.33333px solid #FFFFFF;
+ border-radius: 50px;
+}
+
+.tit
+{
+position: absolute;
+width: 12.265%;
+left: 43.89%;
+top: 7.08%;
+height: 7.22%;
+font-size: 1.5em;
+font-family: 'Inter';
+font-style: normal;
+color: #FFFFFF;
+}
+.center
+{
+  font-size: 150%;
+}
+.name
+{
+  font-size: 2em;
+  font-family: Inter;
+  font-weight: bold;
+  text-align: center;
+  vertical-align: top;
+  color: #FFFFFF;
+  position: absolute;
+  left: 3.54%;
+  top: 4.86%;
+  width: 9.22%;
+  height: 5.167%;
+  border: 1.33px solid #FFFFFF;
+  background-color: #203864;
+
+}
